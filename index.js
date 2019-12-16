@@ -15,6 +15,6 @@ function sayHiToGrandma(string) {
   return("I can\'t hear you!")
   }
 function sayHiToGrandma(string) {
-  if 'string' = .uppercase
+  if sayHiToGrandma = .uppercase
   return("YES INDEED")
 }
